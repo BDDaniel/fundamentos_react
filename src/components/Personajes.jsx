@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const PeticionApi = () => {
+export const Personajes = () => {
 
     const [personajes, setPersonajes] = React.useState([]);
     const [paginacion, setPaginacion] = React.useState(1);
